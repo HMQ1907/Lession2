@@ -16,3 +16,4 @@ Tên database bạn cần đặt là lampart_lesson
 Sử dụng
 Sau khi cài đặt và cấu hình, bạn có thể truy cập ứng dụng bằng cách truy cập đường dẫn của ứng dụng trên máy chủ web Apache.
 Trang web sẽ hiển thị danh sách các danh mục sản phẩm. Bạn có thể thêm, sửa đổi hoặc xóa danh mục bằng cách nhấp vào các nút tương ứng.
+![image](https://user-images.githubusercontent.com/107503766/232335963-1ffe8f03-3a77-4cc1-beaa-f91a613fed4f.png)
